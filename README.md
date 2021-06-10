@@ -1,5 +1,5 @@
 # Brawl-stars-v11
-eesdf
+
 ## What's working
 - Brawlers
   - Unlock brawlers
@@ -9,7 +9,6 @@ eesdf
   - Practice with bots
   - Push trophies
   - Battle reward logic
-  - Online Battles (Work in progress)
 - Shop
   - Buy boxes
 - Other
